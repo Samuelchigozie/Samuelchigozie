@@ -1,3 +1,5 @@
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=My+Name+Is+Samuel;Full-stack+wizard+by+day,;code+ninja+By+night!;Let's+turn+coffee+into+code!+☕💻😄)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Samuel Chigozie</h1>
 <h3 align="center">A Full-Stack WordPress | PHP Developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
