@@ -45,6 +45,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelchigozie&" alt="samuelchigozie" /></p>
 
-<p>![keep coding](https://github.com/Samuelchigozie/samuelchigozie/assets/59323050/e9605364-0120-421a-9d06-f7034198ae5e)</p> 
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVoOWttb3U1c2JvcWYyODJ6ZTd5cHJiZzEzb2R5cXViMWhoMDczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" />
+</div>
 
 
