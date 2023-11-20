@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://dev-5-p.pantheonsite.io](https://dev-5-p.pantheonsite.io)
+- 👨‍💻 All of my projects are available at [https://devsamuel.tech](https://devsamuel.tech)
 
 - 📝 I regularly write articles on [https://medium.com/@devsamuel](https://medium.com/@devsamuel)
 
