@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Full-stack Web,PHP, WordPress**
 
-- 📫 How to reach me **Nzekwesammy@gmail.com**
+- 📫 How to reach me **info@devsamuel.tech**
 
 - 📄 Know about my experiences [https://devsamuel.tech/resume](https://devsamuel.tech/resume)
 
