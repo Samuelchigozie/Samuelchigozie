@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **Nzekwesammy@gmail.com**
 
-- 📄 Know about my experiences [https://dev-5-p.pantheonsite.io/resume](https://dev-5-p.pantheonsite.io/resume)
+- 📄 Know about my experiences [https://devsamuel.tech/resume](https://devsamuel.tech/resume)
 
 - ⚡ Fun fact **Turning "404 Not Found" errors into functional websites**
 
