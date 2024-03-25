@@ -13,8 +13,6 @@
 
 - 🌱 I’m  **ALX Software Engineering Graduate**
 
-- 👯 I’m looking to collaborate on **Full-Stack Projects**
-
 - 👨‍💻 All of my projects are available at [https://devsamuel.tech](https://devsamuel.tech)
 
 - 📝 I regularly write articles on [https://medium.com/@devsamuel](https://medium.com/@devsamuel)
@@ -37,7 +35,7 @@
 </p>
 
 <h3 align="left">Here is My Certification</h3>
-<img align="left" alt="Cert" width="400" src="https://github.com/Samuelchigozie/samuelchigozie/assets/59323050/a17ef572-4a97-442c-9990-a14e8e4c83b1">
+<img align="left" alt="Cert" width="600" src="https://github.com/Samuelchigozie/samuelchigozie/assets/59323050/a17ef572-4a97-442c-9990-a14e8e4c83b1">
 
 
 
