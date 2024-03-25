@@ -37,7 +37,8 @@
 </p>
 
 <h3 align="left">Here is My Certification</h3>
-![cert](https://github.com/Samuelchigozie/samuelchigozie/assets/59323050/a17ef572-4a97-442c-9990-a14e8e4c83b1)
+<img align="left" alt="Cert" width="400" src="https://github.com/Samuelchigozie/samuelchigozie/assets/59323050/a17ef572-4a97-442c-9990-a14e8e4c83b1">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
